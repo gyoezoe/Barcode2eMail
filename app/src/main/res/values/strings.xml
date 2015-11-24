@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Barcode2eMail</string>
+    <string name="textEmail">eMail:</string>
+    <string name="textSubject">Subject</string>
+    <string name="textBody">Message body</string>
+    <string name="textScan">Scan</string>
+    <string name="textSend">Send</string>
+</resources>
